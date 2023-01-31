@@ -1,0 +1,33 @@
+{
+	"logo": "/images/logo.svg",
+	"items": [
+		{
+			"link": "/",
+			"text": "Home"
+		},
+		{
+			"link": "/feature/",
+			"text": "Features"
+		},
+		{
+			"link": "/pricing/",
+			"text": "Pricing"
+		},
+		{
+			"link": "/about/",
+			"text": "About"
+		},
+		{
+			"link": "/blog/",
+			"text": "Blog"
+		},
+		{
+			"link": "/contact/",
+			"text": "Contact"
+		}
+	],
+	"button": {
+		"link": "/signup",
+		"text": "Get Started"
+	}
+}
